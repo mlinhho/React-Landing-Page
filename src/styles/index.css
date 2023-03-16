@@ -10,3 +10,27 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.menu-options{
+    justify-content:right;
+}
+
+.bottom-bar{
+    max-width: 100%;
+    margin-bottom:0px;
+}
+
+.bottom-bar-text{
+    font-size:12px;
+    margin: 0 auto;
+}
+
+img {
+    width: 900px;
+    height: 150px;
+    }
+      
+.card-size {
+height: 500px;
+width: 300px;
+}
